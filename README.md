@@ -1,2 +1,2 @@
 # RockPaperScissorsByDani
-Simple console R-P-C game.
+Simple console game.
